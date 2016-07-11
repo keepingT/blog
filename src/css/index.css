@@ -1,3 +1,20 @@
+*{
+	padding: 0;
+	margin:0;
+}
 body{
-	color:red;
+	font-size: 14px;
+}
+.error{
+	color: red;
+}
+.div_login{
+	height: 300px;
+	width: 400px;
+	margin: 10rem auto;
+	text-align: center;
+
+	div{
+		margin:1rem 0;
+	}
 }
